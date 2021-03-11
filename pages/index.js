@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to WK9.PL" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          WORK IN PROGRESS 
         </p>
       </main>
 
